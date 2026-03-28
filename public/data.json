@@ -1,0 +1,137 @@
+[
+    {
+        "playerImg": "https://i.ibb.co.com/r29m4LN0/Virat-Kohli.avif",
+        "playerName": "Virat Kohli",
+        "playerCountry": "India",
+        "rating": 95,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": "$2,000,000"
+    },
+    {
+        "playerImg": "https://i.ibb.co.com/76Yt4VX/Babar-Azam.png",
+        "playerName": "Babar Azam",
+        "playerCountry": "Pakistan",
+        "rating": 92,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "$1,800,000"
+    },
+    {
+        "playerImg": "https://i.ibb.co.com/v4HZg4NT/Ben-Stokes.png",
+        "playerName": "Ben Stokes",
+        "playerCountry": "England",
+        "rating": 90,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm fast-medium",
+        "price": "$1,500,000"
+    },
+    {
+        "playerImg": "https://i.ibb.co.com/4ZGV079S/Glenn-Maxwell.png",
+        "playerName": "Glenn Maxwell",
+        "playerCountry": "Australia",
+        "rating": 88,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "$1,200,000"
+    },
+    {
+        "playerImg": "https://i.ibb.co.com/yc1KCF8R/Shaheen-Afridi.webp",
+        "playerName": "Shaheen Afridi",
+        "playerCountry": "Pakistan",
+        "rating": 87,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm fast",
+        "price": "$1,100,000"
+    },
+    {
+        "playerImg": "https://i.ibb.co.com/XfNjZZ6G/Steve-Smith.avif",
+        "playerName": "Steve Smith",
+        "playerCountry": "Australia",
+        "rating": 89,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm legbreak",
+        "price": "$1,300,000"
+    },
+    {
+        "playerImg": "https://example.com/images/josbuttler.jpg",
+        "playerName": "Jos Buttler",
+        "playerCountry": "England",
+        "rating": 91,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": "$1,700,000"
+    },
+    {
+        "playerImg": "https://example.com/images/kane.jpg",
+        "playerName": "Kane Williamson",
+        "playerCountry": "New Zealand",
+        "rating": 93,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "$1,900,000"
+    },
+    {
+        "playerImg": "https://example.com/images/rashid.jpg",
+        "playerName": "Rashid Khan",
+        "playerCountry": "Afghanistan",
+        "rating": 86,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm legbreak",
+        "price": "$1,000,000"
+    },
+    {
+        "playerImg": "https://example.com/images/shakib.jpg",
+        "playerName": "Shakib Al Hasan",
+        "playerCountry": "Bangladesh",
+        "rating": 88,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm orthodox",
+        "price": "$1,150,000"
+    },
+    {
+        "playerImg": "https://example.com/images/chahal.jpg",
+        "playerName": "Yuzvendra Chahal",
+        "playerCountry": "India",
+        "rating": 85,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm legbreak",
+        "price": "$950,000"
+    },
+    {
+        "playerImg": "https://example.com/images/trent.jpg",
+        "playerName": "Trent Boult",
+        "playerCountry": "New Zealand",
+        "rating": 87,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm fast-medium",
+        "price": "$1,100,000"
+    },
+    {
+        "playerImg": "https://example.com/images/andre.jpg",
+        "playerName": "Andre Russell",
+        "playerCountry": "West Indies",
+        "rating": 86,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": "$1,050,000"
+    },
+    {
+        "playerImg": "https://example.com/images/david.jpg",
+        "playerName": "David Warner",
+        "playerCountry": "Australia",
+        "rating": 89,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": "$1,250,000"
+    },
+    {
+        "playerImg": "https://example.com/images/faf.jpg",
+        "playerName": "Faf du Plessis",
+        "playerCountry": "South Africa",
+        "rating": 88,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm legbreak",
+        "price": "$1,200,000"
+    }
+]
