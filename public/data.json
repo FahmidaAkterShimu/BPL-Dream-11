@@ -7,7 +7,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
     "playerType": "Batsman",
-    "price": "$2,000,000"
+    "price": 20000
   },
   {
     "playerImg": "https://i.ibb.co.com/76Yt4VX/Babar-Azam.png",
@@ -17,7 +17,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "playerType": "Batsman",
-    "price": "$1,800,000"
+    "price": 18000
   },
   {
     "playerImg": "https://i.ibb.co.com/xqXBkQjn/Ben-Stokes.webp",
@@ -27,7 +27,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
     "playerType": "All-Rounder",
-    "price": "$1,500,000"
+    "price": 15000
   },
   {
     "playerImg": "https://i.ibb.co.com/dw3GNDfs/Glenn-Maxwell.jpg",
@@ -37,7 +37,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "playerType": "All-Rounder",
-    "price": "$1,200,000"
+    "price": 12000
   },
   {
     "playerImg": "https://i.ibb.co.com/yc1KCF8R/Shaheen-Afridi.webp",
@@ -47,7 +47,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast",
     "playerType": "Bowler",
-    "price": "$1,100,000"
+    "price": 11000
   },
   {
     "playerImg": "https://i.ibb.co.com/XfNjZZ6G/Steve-Smith.avif",
@@ -57,7 +57,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "playerType": "Batsman",
-    "price": "$1,300,000"
+    "price": 13000
   },
   {
     "playerImg": "https://i.ibb.co.com/76Yt4VX/Babar-Azam.png",
@@ -67,7 +67,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
     "playerType": "Wicketkeeper",
-    "price": "$1,700,000"
+    "price": 17000
   },
   {
     "playerImg": "https://i.ibb.co.com/76Yt4VX/Babar-Azam.png",
@@ -77,7 +77,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "playerType": "Batsman",
-    "price": "$1,900,000"
+    "price": 19000
   },
   {
     "playerImg": "https://i.ibb.co.com/76Yt4VX/Babar-Azam.png",
@@ -87,7 +87,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "playerType": "Bowler",
-    "price": "$1,000,000"
+    "price": 10000
   },
   {
     "playerImg": "https://i.ibb.co.com/76Yt4VX/Babar-Azam.png",
@@ -97,7 +97,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm orthodox",
     "playerType": "All-Rounder",
-    "price": "$1,150,000"
+    "price": 11500
   },
   {
     "playerImg": "https://i.ibb.co.com/76Yt4VX/Babar-Azam.png",
@@ -107,7 +107,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "playerType": "Bowler",
-    "price": "$950,000"
+    "price": 95000
   },
   {
     "playerImg": "https://i.ibb.co.com/76Yt4VX/Babar-Azam.png",
@@ -117,7 +117,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast-medium",
     "playerType": "Bowler",
-    "price": "$1,100,000"
+    "price": 11000
   },
   {
     "playerImg": "https://i.ibb.co.com/76Yt4VX/Babar-Azam.png",
@@ -127,7 +127,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
     "playerType": "All-Rounder",
-    "price": "$1,050,000"
+    "price": 10500
   },
   {
     "playerImg": "https://i.ibb.co.com/76Yt4VX/Babar-Azam.png",
@@ -137,7 +137,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm medium",
     "playerType": "Batsman",
-    "price": "$1,250,000"
+    "price": 12500
   },
   {
     "playerImg": "https://i.ibb.co.com/76Yt4VX/Babar-Azam.png",
@@ -147,6 +147,6 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "playerType": "Batsman",
-    "price": "$1,200,000"
+    "price": 12000
   }
 ]
