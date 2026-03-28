@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { FaUser } from "react-icons/fa";
 import { IoFlagSharp } from 'react-icons/io5';
 
-const Card = ({ player, coin, setCoin }) => {
+const Card = ({ player, coin, setCoin, selectedPlayers, setSelectedPlayers }) => {
     const [selected, setSelected] = useState(false);
 
     const handleChoosePlayer = () => {
@@ -17,7 +17,9 @@ const Card = ({ player, coin, setCoin }) => {
 
         alert(`${player.playerName} is selected`)
         setSelected(true);
-    }
+
+        setSelectedPlayers([...selectedPlayers, player]);
+    };
 
     return (
         <div className="card bg-base-100 shadow-sm border-2 border-gray-100 rounded-2xl">
