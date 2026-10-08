@@ -1,16 +1,37 @@
-# React + Vite
+# React World On The Go
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React project that I built while practicing API integration, React state management, and component-based development.
 
-Currently, two official plugins are available:
+The application fetches country data from an API and displays the countries. Users can mark countries and flags as visited and keep track of their visited list.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+* Fetches country data from an API
+* Displays all available countries
+* Tracks visited countries
+* Tracks visited country flags
+* Shows visited country names in a list
+* Displays visited flags separately
+* Uses React components for country cards
+* Loading fallback with `Suspense`
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the ESLint configuration
+* React
+* JavaScript (ES6+)
+* Vite
+* REST API
+* CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## What I Practiced
+
+* React components and props
+* `useState()` for state management
+* `use()` with `Suspense`
+* Fetching API data
+* Rendering lists with `map()`
+* Handling user interactions
+* Passing functions between components
+* Dynamic UI rendering
+
+### GitHub: [FahmidaAkterShimu](https://github.com/FahmidaAkterShimu)
